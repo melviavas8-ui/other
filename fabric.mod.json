@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "zenith-addon-api",
+  "version": "1.0-SNAPSHOT",
+  "name": "Zenith Addon API",
+  "description": "Public API shared by Zenith addons and development hosts.",
+  "environment": "client",
+  "license": "All-Rights-Reserved",
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.4"
+  }
+}
